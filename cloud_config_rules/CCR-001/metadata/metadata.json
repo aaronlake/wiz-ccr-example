@@ -1,5 +1,5 @@
 {
-  "name": "aaronlake - Pod should not run root containers (PSS Restricted)",
+  "name": "Pod should not run root containers (PSS Restricted)",
   "enabled": true,
   "function_as_control": true,
   "scope_account_ids": [],
