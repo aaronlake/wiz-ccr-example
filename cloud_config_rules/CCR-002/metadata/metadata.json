@@ -1,0 +1,11 @@
+{
+  "name": "aaronlake - Deployment should not contain pods created with sensitive host file system mount",
+  "enabled": true,
+  "function_as_control": true,
+  "scope_account_ids": [],
+  "security_sub_categories": [],
+  "severity": "HIGH",
+  "target_native_types": [
+    "Deployment"
+  ]
+}
